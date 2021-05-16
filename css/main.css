@@ -12,6 +12,8 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+
 a {
     text-decoration: none;
     color: #999;
@@ -41,3 +43,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+table.result_table {
+  direction: rtl; }
+table.result_table caption, table.result_table th, table.result_table td {
+  direction: ltr; }
